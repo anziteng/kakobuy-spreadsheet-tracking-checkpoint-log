@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "asset_id": "kakobuy-github-pages-tracking-checkpoint-log-20260829",
+  "platform_id": "github-pages",
+  "brand": "Kakobuy",
+  "target_url": "https://kakobs.com/",
+  "public_base_url": "https://anziteng.github.io/kakobuy-spreadsheet-tracking-checkpoint-log/",
+  "title": "Kakobuy Spreadsheet Tracking Checkpoint Log",
+  "content_angle": "A four-page preserve event wording, timestamp context, sequence gaps, and the next observation. Its independent output remains useful without the project link and it makes no claim about current inventory, price, quality, eligibility, policy, or delivery outcomes.",
+  "difference_notes": "This tracking checkpoint log produces a distinct saved output, evidence field set, worked example, exception path, and decision vocabulary from earlier Kakobuy assets.",
+  "generator": "tools/run-auto-tasks-2026-08-26.mjs",
+  "content_quality": {
+    "depth_profile": "task_complete_v2",
+    "real_data_status": "unavailable",
+    "independent_user_task": "Complete one tracking-checkpoint review and save a checkpoint log preserving event wording, timestamp, source, sequence gap, and next observation.",
+    "link_removed_value": "Without the brand, logo, CTA, or project link, the resource still teaches the method, exception path, worked example, and fields needed for a checkpoint log preserving event wording, timestamp, source, sequence gap, and next observation.",
+    "compared_asset_ids": [
+      "kakobuy-github-pages-link-change-log-01",
+      "kakobuy-github-pages-category-boundaries-01",
+      "kakobuy-github-pages-basket-split-02",
+      "kakobuy-github-pages-source-verifier-01",
+      "kakobuy-github-pages-qc-evidence-tool-01"
+    ],
+    "unique_modules": [
+      "Build the checkpoint sequence",
+      "Event wording",
+      "Timestamp context",
+      "Sequence gap",
+      "Next observation"
+    ],
+    "reused_paragraphs": [],
+    "duplicate_check_result": "Passed after comparing the task, output, field set, examples, and exceptions against kakobuy-github-pages-link-change-log-01, kakobuy-github-pages-category-boundaries-01, kakobuy-github-pages-basket-split-02, kakobuy-github-pages-source-verifier-01, kakobuy-github-pages-qc-evidence-tool-01.",
+    "depth_audit": {
+      "home": {
+        "visible_word_count": 688,
+        "h1_count": 1,
+        "h2_count": 7,
+        "section_count": 8,
+        "substantive_block_count": 27,
+        "long_block_count": 11,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "faq": {
+        "visible_word_count": 438,
+        "h1_count": 1,
+        "h2_count": 5,
+        "section_count": 6,
+        "substantive_block_count": 16,
+        "long_block_count": 7,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "usage-guide": {
+        "visible_word_count": 463,
+        "h1_count": 1,
+        "h2_count": 5,
+        "section_count": 6,
+        "substantive_block_count": 18,
+        "long_block_count": 12,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "alternatives": {
+        "visible_word_count": 485,
+        "h1_count": 1,
+        "h2_count": 9,
+        "section_count": 6,
+        "substantive_block_count": 21,
+        "long_block_count": 3,
+        "task_signal_count": 4,
+        "duplicate_block_count": 3,
+        "duplicate_block_ratio": 0.14285714285714285
+      }
+    }
+  }
+}
